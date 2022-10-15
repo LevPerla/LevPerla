@@ -1,4 +1,4 @@
-Hello everyone  
+Hello everyone!  
 My name is Lev, I am a practicing data analyst with 3 years of experience.  
 
 My portfolio includes successfully implemented projects on automation of business processes (development of an algorithm for optimizing prices at gas stations) and the construction of advanced analytics systems (a system for assessing the impact of competitors' discounts on the company's price positioning)  
