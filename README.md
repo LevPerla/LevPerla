@@ -8,8 +8,8 @@ My scientific interest is in the field of forecasting financial time series. In 
 I am currently in Astana, but I am open to offers from other cities and countries.  
 
 CV:
-(eng) https://github.com/LevPerla/LevPerla/blob/main/CV_Perla_2022.pdf
-(rus) https://github.com/LevPerla/LevPerla/blob/main/CV_Перла_2022.pdf
+(eng) https://github.com/LevPerla/LevPerla/blob/main/CV_Perla_2022.pdf  
+(rus) https://github.com/LevPerla/LevPerla/blob/main/CV_Перла_2022.pdf  
 
 LinkedIn: https://www.linkedin.com/in/levperla  
 email: levperla@mail.ru  
