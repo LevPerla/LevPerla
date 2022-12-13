@@ -1,5 +1,5 @@
 Hello everyone!  
-My name is Lev, I am a practicing data analyst with 3 years of experience.  
+My name is Lev, I am a practicing data analyst with 2+ years of experience.  
 
 My scientific interest is in the field of forecasting financial time series. In 2022 I successfully presented my master's thesis in this field. I would be glad to apply the experience in your company's projects.
 
