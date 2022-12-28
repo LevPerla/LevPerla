@@ -1,8 +1,9 @@
 Hello everyone 👋   
-My name is Lev, I am a practicing data analyst with 3 years of experience. I passionately love to automate processes and find data insights.
+My name is Lev, I am a practicing data analyst with 3 years of experience.   
+I passionately love to automate processes and find data insights.
 
 ____
-#### Projects
+### Projects
 📈 Time Series Forecasting  
 My scientific interest is in the field of forecasting financial time series. In 2022 I successfully presented my master's thesis in this field.  
 The result of the work is a library for time series forecasting by recurrent neural networks, which can be viewed here:  
