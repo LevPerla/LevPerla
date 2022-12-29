@@ -15,6 +15,9 @@ The result of the work is a library for time series forecasting by recurrent neu
 - [Regression for ML contest](https://github.com/LevPerla/yandex_profi_2021/tree/master/qualifying_stage/Regression_task/task2.ipynb)
 - [Interpolation for ML contest](https://github.com/LevPerla/yandex_profi_2021/tree/master/semifinal/Yandex_Perla.ipynb)
 
+👀 Computer vision
+- [DLS CV course](https://github.com/LevPerla/DLS_CV_Course)
+
 💻 Algorithms
 - [Ant colony optimization algorithm for solving TSP](https://github.com/LevPerla/Algorithms_for_set_cover_problem)
 - [Genetic and greedy algorithms for solving set cover problem](https://github.com/LevPerla/Algorithms_for_set_cover_problem)
