@@ -1,5 +1,5 @@
 Hello everyone 👋   
-My name is Lev, I am a practicing data analyst with 3 years of experience.   
+My name is Lev, I am a practicing data analyst.   
 I passionately love to automate processes and find data insights.
 
 ____
